@@ -3,6 +3,16 @@
 
 This Jupyter Notebook demonstrates a machine learning model for detecting and interpreting sign language gestures. The model leverages neural networks to classify various sign language gestures into their corresponding letters or words.
 
+## Dependencies:
+1. Tensorflow
+
+2. Keras
+
+3. OpenCV
+
+## Dataset:
+https://www.kaggle.com/datamunge/sign-language-mnist
+
 ## Table of Contents
 
 - [Installation](#installation)
